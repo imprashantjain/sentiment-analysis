@@ -1,0 +1,50 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# TensorFlow Models
+
+*.h5
+*.pb
+
+# Logs
+logs/
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Dataset
+data/
+
+# Streamlit Cache
+.streamlit/
+
+# Temporary Files
+temp/
+tmp/
